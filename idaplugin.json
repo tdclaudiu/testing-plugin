@@ -1,3 +1,8 @@
 {
-  "name": "testing-plugin-123"
+  "categories": ["disassembly-and-processor-modules"],
+  "logoUrl": "https://9gag.com/gag/a9y8GLo",
+  "idaVersions": ["9.0"],
+  "name": "testing plugin @123",
+  "description": "test description",
+  "version": "1.1.0"
 }
