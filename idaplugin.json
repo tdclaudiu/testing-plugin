@@ -1,3 +1,8 @@
 {
-  
+  "categories": ["disassembly-and-processor-modules"],
+  "logoUrl": "https://hex-rays.com/hubfs/unnamed-3.png",
+  "idaVersions": ["9.1"],
+  "name": "testing demo plugin hahah",
+  "description": "this is a dope plugin that is meant to make your life so much better so install now!",
+  "version": "1.1.0"
 }
