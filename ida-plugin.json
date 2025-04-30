@@ -1,1 +1,12 @@
-
+{
+  "IDAMetadataDescriptorVersion": 1,
+  "plugin": {
+    "name": "My First Plugin",
+    "entryPoint": "",
+    "categories": ["disassembly-and-processor-modules"],
+    "logoUrl": "",
+    "idaVersions": "",
+    "description" : "",
+    "version": ""
+  }
+}
