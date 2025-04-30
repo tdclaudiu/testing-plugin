@@ -4,7 +4,7 @@
     "name": "My First Plugin",
     "entryPoint": "my-first-plugin.py",
     "categories": ["disassembly-and-processor-modules"],
-    "logoUrl": "https://hex-rays.com/hubfs/unnamed-3.png",
+    "logoUrl": "https://hex-rays.com/hs-fs/hubfs/pseudocode-1.jpg?width=2744&name=pseudocode-1.jpg",
     "idaVersions": "9.1",
     "description" : "test description",
     "version": "1.1.2"
