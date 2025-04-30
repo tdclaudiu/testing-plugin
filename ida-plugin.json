@@ -2,11 +2,11 @@
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
     "name": "My First Plugin",
-    "entryPoint": "",
+    "entryPoint": "my-first-plugin.py",
     "categories": ["disassembly-and-processor-modules"],
-    "logoUrl": "",
-    "idaVersions": "",
-    "description" : "",
-    "version": ""
+    "logoUrl": "https://hex-rays.com/hubfs/unnamed-3.png",
+    "idaVersions": "9.1",
+    "description" : "test description",
+    "version": "1.1.2"
   }
 }
