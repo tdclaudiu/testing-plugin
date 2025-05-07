@@ -7,3 +7,5 @@ test test test
 test
 
 ceva la final
+
+<script>console.log('i m here, in the readme')</script>
