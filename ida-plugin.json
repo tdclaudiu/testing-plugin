@@ -1,7 +1,7 @@
 {
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
-    "name": "",
+    "name": "demo name",
     "entryPoint": "my-first-plugin.py",
     "categories": ["security"],
     "logoPath": "customers-agecies-banner.jpg",
