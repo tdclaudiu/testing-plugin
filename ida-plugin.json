@@ -2,7 +2,7 @@
 {
   "IDAMetadataDescriptorVersion": 1,
   "plugin": {
-    "name": "",
+    "name": "plugin name, it has to have one, it's required",
     "entryPoint": "my-first-plugin.py",
     "categories": ["security"],
     "logoPath": "customers-agecies-banner.jpg",
