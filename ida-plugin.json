@@ -5,7 +5,7 @@
     "name": "plugin name, it has to have one, it's required",
     "entryPoint": "my-first-plugin.py",
     "categories": ["security"],
-    "logoPath": "customers-agecies-banner.jpg",
+    "logoPath": "",
     "idaVersions": "9.0",
     "description": "FillyForm allows you to set up dynamic, step-by-step questions that guide users through filling out any form on your website. By responding to tailored questions, users are able to generate accurate and relevant content, ensuring they complete forms correctly and efficiently.",
     "version": "1.1.0",
